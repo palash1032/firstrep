@@ -1,2 +1,5 @@
 # firstrep
-first repository
+
+## Editing the file
+
+Its a markddown file in this repositry
